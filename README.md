@@ -15,7 +15,7 @@ All deliverables are completed with the attached code in the repo.
 ![Light](./Mapping_Earthquakes_Challenge/images/Light.png)
 
 ### Street
-![Street](./Mapping_Earthquakes_Challenge/images/Streets.png)
+![Street](./Mapping_Earthquakes_Challenge/images/streets.png)
 
 ### Satellite
-![Street](./Mapping_Earthquakes_Challenge/images/Satellite.png)
+![Street](./Mapping_Earthquakes_Challenge/images/satellite.png)
